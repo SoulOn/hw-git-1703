@@ -14,7 +14,7 @@
 <header>
     <div class="header-container">
         <div class="logo-box">
-            <img src="img/logo.svg">
+            <img src="img/logo2.svg">
         </div>
 
         <div class="menu-box">
