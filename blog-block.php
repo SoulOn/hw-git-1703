@@ -29,26 +29,6 @@
                     <img src="img/blog2.jpg">
                 </div>
             </article>
-            <article>
-                <div class="post-info">
-                    <span>2016 rugpjucio 15</span>
-                    <h3>10 idėjų, kaip apšviesti virtuvę</h3>
-                    <a href="#">Skaityti plačiau</a>
-                </div>
-                <div class="post-img">
-                    <img src="img/blog3.jpg">
-                </div>
-            </article>
-            <article>
-                <div class="post-info">
-                    <span>2016 rugpjučio 1</span>
-                    <h3>Skandinaviško stiliaus baldų tendencijos</h3>
-                    <a href="#">Skaityti plačiau</a>
-                </div>
-                <div class="post-img">
-                    <img src="img/blog4.jpg">
-                </div>
-            </article>
         </div>
     </div>
 </div>
