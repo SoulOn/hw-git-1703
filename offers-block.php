@@ -67,6 +67,9 @@
                 <li style="background-color:#ffffff; border: 1px solid #efefef;"></li>
                 <li style="background-color:#ffea00;"></li>
                 <li style="background-color:#09cbcd;"></li>
+                <li style="background-color:#ff3b31;"></li>
+                <li style="background-color:#531c00;"></li>
+                <li style="background-color:#557368;"></li>
             </ul>
 
             <ul class="product-block-footer">
